@@ -1,0 +1,1 @@
+let a = document.getElementsByTagName("a")[0]; a.setAttribute("href", "https://youtube.com");
